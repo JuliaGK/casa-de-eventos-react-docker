@@ -75,3 +75,12 @@ json-server --watch eventos.json
 ```
 
 ### _Pronto! Seu projeto já estará rodando no endereço http://localhost:5173_
+
+## Docker Hub
+
+### Json server
+Nome da imagem: juliakuchle/casa-de-eventos-json-server
+
+### Site
+Nome da imagem: juliakuchle/casa-de-eventos-site
+
